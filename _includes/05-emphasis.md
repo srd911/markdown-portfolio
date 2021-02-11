@@ -1,1 +1,12 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Resume
+The _list of_ **technologies** that i excel in are
+
+## Skills
+### ETL Tool
+- SSIS
+- Informatica
+- Azure
+
+### Reporting
+- Power BI
+- Qliksense
