@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+# Please find the details of School
+- School
+  - Bag
+    - Books
+  - Children
+    - Snacks
